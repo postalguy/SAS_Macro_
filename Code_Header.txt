@@ -1,0 +1,19 @@
+/****************************************************/
+/*                  INBOX                           */
+/* Client :                                         */
+/* Projet :                                         */
+/****************************************************/
+/* Auteur : INBOX                                   */
+/* Programe :                                       */
+/* Date :                                           */
+/****************************************************/
+/* Objet :                                          */
+/****************************************************/
+/* Date de modification :                           */
+/* Objet :                                          */
+/****************************************************/
+/* Chemins */
+
+/***Options***/
+options fullstimer notes nosource nosymbolgen compress=yes nofmterr ls=90 ps=90 mprint mlogic nodate nonumber sumsize=max sortsize=max threads=yes;
+
